@@ -1,0 +1,231 @@
+Program State ID: 5
+Execution Stack: [(Ref(int) v | (newHeap(v, 20) | (Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))))))]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 20) | (Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))))), Ref(int) v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 20) | (Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))))), Ref(int) v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 20) | (Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))))), Ref(int) v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 20) | (Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a))))))]
+Symbol Table: {v=(0; int)}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 20) | (Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a))))))]
+Symbol Table: {v=(0; int)}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 20) | (Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a))))))]
+Symbol Table: {v=(0; int)}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a))))), newHeap(v, 20)]
+Symbol Table: {v=(0; int)}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a))))), newHeap(v, 20)]
+Symbol Table: {v=(0; int)}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a))))), newHeap(v, 20)]
+Symbol Table: {v=(0; int)}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))))]
+Symbol Table: {v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))))]
+Symbol Table: {v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(Ref(Ref(int)) a | (newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))))]
+Symbol Table: {v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))), Ref(Ref(int)) a]
+Symbol Table: {v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))), Ref(Ref(int)) a]
+Symbol Table: {v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a)))), Ref(Ref(int)) a]
+Symbol Table: {v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a))))]
+Symbol Table: {a=(0; Ref(int)), v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a))))]
+Symbol Table: {a=(0; Ref(int)), v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(a, v) | (newHeap(v, 30) | print: (readHeap(a))))]
+Symbol Table: {a=(0; Ref(int)), v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 30) | print: (readHeap(a))), newHeap(a, v)]
+Symbol Table: {a=(0; Ref(int)), v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 30) | print: (readHeap(a))), newHeap(a, v)]
+Symbol Table: {a=(0; Ref(int)), v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 30) | print: (readHeap(a))), newHeap(a, v)]
+Symbol Table: {a=(0; Ref(int)), v=(1; int)}
+Heap: {1=20}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 30) | print: (readHeap(a)))]
+Symbol Table: {a=(2; Ref(int)), v=(1; int)}
+Heap: {1=20, 2=(1; int)}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 30) | print: (readHeap(a)))]
+Symbol Table: {a=(2; Ref(int)), v=(1; int)}
+Heap: {1=20, 2=(1; int)}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [(newHeap(v, 30) | print: (readHeap(a)))]
+Symbol Table: {a=(2; Ref(int)), v=(1; int)}
+Heap: {1=20, 2=(1; int)}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [print: (readHeap(a)), newHeap(v, 30)]
+Symbol Table: {a=(2; Ref(int)), v=(1; int)}
+Heap: {1=20, 2=(1; int)}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [print: (readHeap(a)), newHeap(v, 30)]
+Symbol Table: {a=(2; Ref(int)), v=(1; int)}
+Heap: {1=20, 2=(1; int)}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [print: (readHeap(a)), newHeap(v, 30)]
+Symbol Table: {a=(2; Ref(int)), v=(1; int)}
+Heap: {1=20, 2=(1; int)}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(2; Ref(int)), v=(3; int)}
+Heap: {1=20, 2=(1; int), 3=30}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(2; Ref(int)), v=(3; int)}
+Heap: {1=20, 2=(1; int), 3=30}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(2; Ref(int)), v=(3; int)}
+Heap: {1=20, 2=(1; int), 3=30}
+File Table: {}
+Output: []
+
+Program State ID: 5
+Execution Stack: []
+Symbol Table: {a=(2; Ref(int)), v=(3; int)}
+Heap: {1=20, 2=(1; int), 3=30}
+File Table: {}
+Output: [(1; int)]
+
+Program State ID: 5
+Execution Stack: []
+Symbol Table: {a=(2; Ref(int)), v=(3; int)}
+Heap: {1=20, 2=(1; int), 3=30}
+File Table: {}
+Output: [(1; int)]
+

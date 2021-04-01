@@ -1,0 +1,448 @@
+Program State ID: 6
+Execution Stack: [(int v | (v = 4 | (while (v>0) {(print: (v) | v = v-1)} | print: (v))))]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(v = 4 | (while (v>0) {(print: (v) | v = v-1)} | print: (v))), int v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(v = 4 | (while (v>0) {(print: (v) | v = v-1)} | print: (v))), int v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(v = 4 | (while (v>0) {(print: (v) | v = v-1)} | print: (v))), int v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(v = 4 | (while (v>0) {(print: (v) | v = v-1)} | print: (v)))]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(v = 4 | (while (v>0) {(print: (v) | v = v-1)} | print: (v)))]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(v = 4 | (while (v>0) {(print: (v) | v = v-1)} | print: (v)))]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(while (v>0) {(print: (v) | v = v-1)} | print: (v)), v = 4]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(while (v>0) {(print: (v) | v = v-1)} | print: (v)), v = 4]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(while (v>0) {(print: (v) | v = v-1)} | print: (v)), v = 4]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(while (v>0) {(print: (v) | v = v-1)} | print: (v))]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(while (v>0) {(print: (v) | v = v-1)} | print: (v))]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [(while (v>0) {(print: (v) | v = v-1)} | print: (v))]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, (print: (v) | v = v-1)]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, (print: (v) | v = v-1)]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=4}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, (print: (v) | v = v-1)]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, (print: (v) | v = v-1)]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=3}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, (print: (v) | v = v-1)]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, (print: (v) | v = v-1)]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=2}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, (print: (v) | v = v-1)]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, (print: (v) | v = v-1)]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1, print: (v)]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}, v = v-1]
+Symbol Table: {v=1}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1]
+
+Program State ID: 6
+Execution Stack: [print: (v), while (v>0) {(print: (v) | v = v-1)}]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1]
+
+Program State ID: 6
+Execution Stack: [print: (v)]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1]
+
+Program State ID: 6
+Execution Stack: [print: (v)]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1]
+
+Program State ID: 6
+Execution Stack: []
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1, 0]
+
+Program State ID: 6
+Execution Stack: []
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: [4, 3, 2, 1, 0]
+

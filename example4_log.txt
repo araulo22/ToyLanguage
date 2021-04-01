@@ -1,0 +1,322 @@
+Program State ID: 4
+Execution Stack: [(int fileName | (fileName = test.txt | (Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))))))]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(fileName = test.txt | (Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))))), int fileName]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(fileName = test.txt | (Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))))), int fileName]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(fileName = test.txt | (Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))))), int fileName]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(fileName = test.txt | (Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))))))]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(fileName = test.txt | (Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))))))]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(fileName = test.txt | (Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))))))]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))))), fileName = test.txt]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))))), fileName = test.txt]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))))), fileName = test.txt]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))))]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Open(fileName) | (int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))))]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))), Open(fileName)]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))), Open(fileName)]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))), Open(fileName)]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))))]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(int a | (Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))))]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))), int a]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))), int a]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))), int a]
+Symbol Table: {fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))), Read_from(fileName)to(a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))), Read_from(fileName)to(a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName)))), Read_from(fileName)to(a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(print: (a) | (Read_from(fileName)to(a) | (print: (a) | Close(fileName))))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | Close(fileName))), print: (a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | Close(fileName))), print: (a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | Close(fileName))), print: (a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | Close(fileName)))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | Close(fileName)))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [(Read_from(fileName)to(a) | (print: (a) | Close(fileName)))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [(print: (a) | Close(fileName)), Read_from(fileName)to(a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [(print: (a) | Close(fileName)), Read_from(fileName)to(a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [(print: (a) | Close(fileName)), Read_from(fileName)to(a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [(print: (a) | Close(fileName))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [(print: (a) | Close(fileName))]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [Close(fileName), print: (a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [Close(fileName), print: (a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [Close(fileName), print: (a)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0]
+
+Program State ID: 4
+Execution Stack: [Close(fileName)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 4
+Execution Stack: [Close(fileName)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 4
+Execution Stack: [Close(fileName)]
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 4
+Execution Stack: []
+Symbol Table: {a=0, fileName=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+

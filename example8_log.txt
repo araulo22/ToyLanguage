@@ -1,0 +1,315 @@
+Program State ID: 3
+Execution Stack: [(int a | (fork(a = 5) | (int b | (fork(b = 10) | (print: (a) | print: (b))))))]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(fork(a = 5) | (int b | (fork(b = 10) | (print: (a) | print: (b))))), int a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(fork(a = 5) | (int b | (fork(b = 10) | (print: (a) | print: (b))))), int a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(fork(a = 5) | (int b | (fork(b = 10) | (print: (a) | print: (b))))), int a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(fork(a = 5) | (int b | (fork(b = 10) | (print: (a) | print: (b))))), int a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int b | (fork(b = 10) | (print: (a) | print: (b)))), fork(a = 5)]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int b | (fork(b = 10) | (print: (a) | print: (b)))), fork(a = 5)]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int b | (fork(b = 10) | (print: (a) | print: (b)))), fork(a = 5)]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int b | (fork(b = 10) | (print: (a) | print: (b)))), fork(a = 5)]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int b | (fork(b = 10) | (print: (a) | print: (b)))), fork(a = 5)]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int b | (fork(b = 10) | (print: (a) | print: (b)))), fork(a = 5)]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int b | (fork(b = 10) | (print: (a) | print: (b)))), fork(a = 5)]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int b | (fork(b = 10) | (print: (a) | print: (b)))), fork(a = 5)]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [a = 5]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 4
+Execution Stack: [a = 5]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(print: (a) | print: (b)), fork(b = 10)]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 4
+Execution Stack: []
+Symbol Table: {a=5}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 5
+Execution Stack: [b = 10]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 4
+Execution Stack: []
+Symbol Table: {a=5}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 5
+Execution Stack: [b = 10]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 5
+Execution Stack: []
+Symbol Table: {a=0, b=10}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+
+Program State ID: 5
+Execution Stack: []
+Symbol Table: {a=0, b=10}
+Heap: {}
+File Table: {}
+Output: [0, 0]
+

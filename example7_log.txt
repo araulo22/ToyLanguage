@@ -1,0 +1,511 @@
+Program State ID: 1
+Execution Stack: [(int v | (Ref(int) a | (v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a))))))))]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(Ref(int) a | (v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a))))))), int v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(Ref(int) a | (v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a))))))), int v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(Ref(int) a | (v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a))))))), int v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(Ref(int) a | (v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a))))))), int v]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))))), Ref(int) a]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))))), Ref(int) a]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))))), Ref(int) a]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))))), Ref(int) a]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))))), Ref(int) a]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))))), Ref(int) a]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))))), Ref(int) a]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(v = 10 | (newHeap(a, 22) | (fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))))), Ref(int) a]
+Symbol Table: {v=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: [(fork((writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))) | (print: (v) | print: (readHeap(a)))), newHeap(a, 22)]
+Symbol Table: {a=(0; int), v=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 1
+Execution Stack: []
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(writeHeap(a, 30) | (v = 32 | (print: (v) | print: (readHeap(a)))))]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(v = 32 | (print: (v) | print: (readHeap(a)))), writeHeap(a, 30)]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(v = 32 | (print: (v) | print: (readHeap(a)))), writeHeap(a, 30)]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(v = 32 | (print: (v) | print: (readHeap(a)))), writeHeap(a, 30)]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(v = 32 | (print: (v) | print: (readHeap(a)))), writeHeap(a, 30)]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=22}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(print: (v) | print: (readHeap(a))), v = 32]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(print: (v) | print: (readHeap(a))), v = 32]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(print: (v) | print: (readHeap(a))), v = 32]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(print: (v) | print: (readHeap(a))), v = 32]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(print: (v) | print: (readHeap(a))), v = 32]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [(print: (v) | print: (readHeap(a))), v = 32]
+Symbol Table: {a=(1; int), v=10}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: [print: (readHeap(a))]
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32]
+
+Program State ID: 2
+Execution Stack: []
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32, 30]
+
+Program State ID: 2
+Execution Stack: []
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32, 30]
+
+Program State ID: 2
+Execution Stack: []
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32, 30]
+
+Program State ID: 2
+Execution Stack: []
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32, 30]
+
+Program State ID: 2
+Execution Stack: []
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32, 30]
+
+Program State ID: 2
+Execution Stack: []
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32, 30]
+
+Program State ID: 2
+Execution Stack: []
+Symbol Table: {a=(1; int), v=32}
+Heap: {1=30}
+File Table: {}
+Output: [10, 22, 32, 30]
+

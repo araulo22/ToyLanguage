@@ -1,0 +1,294 @@
+Program State ID: 3
+Execution Stack: [(bool a | (bool b | (a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))))))]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(bool b | (a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))))), bool a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(bool b | (a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))))), bool a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(bool b | (a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))))), bool a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(bool b | (a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))))))]
+Symbol Table: {a=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(bool b | (a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))))))]
+Symbol Table: {a=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(bool b | (a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))))))]
+Symbol Table: {a=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))))), bool b]
+Symbol Table: {a=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))))), bool b]
+Symbol Table: {a=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))))), bool b]
+Symbol Table: {a=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))))]
+Symbol Table: {a=false, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))))]
+Symbol Table: {a=false, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(a = true | (b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))))]
+Symbol Table: {a=false, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))), a = true]
+Symbol Table: {a=false, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))), a = true]
+Symbol Table: {a=false, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))), a = true]
+Symbol Table: {a=false, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))))]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))))]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(b = false | (int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))))]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))), b = false]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))), b = false]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c))), b = false]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(int c | (if (a OR b) then: (c = 1), else: (c = 2) | print: (c)))]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(if (a OR b) then: (c = 1), else: (c = 2) | print: (c)), int c]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(if (a OR b) then: (c = 1), else: (c = 2) | print: (c)), int c]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(if (a OR b) then: (c = 1), else: (c = 2) | print: (c)), int c]
+Symbol Table: {a=true, b=false}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(if (a OR b) then: (c = 1), else: (c = 2) | print: (c))]
+Symbol Table: {a=true, b=false, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(if (a OR b) then: (c = 1), else: (c = 2) | print: (c))]
+Symbol Table: {a=true, b=false, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [(if (a OR b) then: (c = 1), else: (c = 2) | print: (c))]
+Symbol Table: {a=true, b=false, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [print: (c), if (a OR b) then: (c = 1), else: (c = 2)]
+Symbol Table: {a=true, b=false, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [print: (c), if (a OR b) then: (c = 1), else: (c = 2)]
+Symbol Table: {a=true, b=false, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [print: (c), if (a OR b) then: (c = 1), else: (c = 2)]
+Symbol Table: {a=true, b=false, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [print: (c), c = 2]
+Symbol Table: {a=true, b=false, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [print: (c), c = 2]
+Symbol Table: {a=true, b=false, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [print: (c), c = 2]
+Symbol Table: {a=true, b=false, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [print: (c)]
+Symbol Table: {a=true, b=false, c=2}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [print: (c)]
+Symbol Table: {a=true, b=false, c=2}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: [print: (c)]
+Symbol Table: {a=true, b=false, c=2}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=true, b=false, c=2}
+Heap: {}
+File Table: {}
+Output: [2]
+
+Program State ID: 3
+Execution Stack: []
+Symbol Table: {a=true, b=false, c=2}
+Heap: {}
+File Table: {}
+Output: [2]
+

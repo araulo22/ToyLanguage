@@ -1,0 +1,273 @@
+Program State ID: 2
+Execution Stack: [(int a | (int b | (a = 5 | (b = 10 | (int c | (c = a*b | print: (c)))))))]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int b | (a = 5 | (b = 10 | (int c | (c = a*b | print: (c)))))), int a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int b | (a = 5 | (b = 10 | (int c | (c = a*b | print: (c)))))), int a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int b | (a = 5 | (b = 10 | (int c | (c = a*b | print: (c)))))), int a]
+Symbol Table: {}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int b | (a = 5 | (b = 10 | (int c | (c = a*b | print: (c))))))]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int b | (a = 5 | (b = 10 | (int c | (c = a*b | print: (c))))))]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int b | (a = 5 | (b = 10 | (int c | (c = a*b | print: (c))))))]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(a = 5 | (b = 10 | (int c | (c = a*b | print: (c))))), int b]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(a = 5 | (b = 10 | (int c | (c = a*b | print: (c))))), int b]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(a = 5 | (b = 10 | (int c | (c = a*b | print: (c))))), int b]
+Symbol Table: {a=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(a = 5 | (b = 10 | (int c | (c = a*b | print: (c)))))]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(a = 5 | (b = 10 | (int c | (c = a*b | print: (c)))))]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(a = 5 | (b = 10 | (int c | (c = a*b | print: (c)))))]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(b = 10 | (int c | (c = a*b | print: (c)))), a = 5]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(b = 10 | (int c | (c = a*b | print: (c)))), a = 5]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(b = 10 | (int c | (c = a*b | print: (c)))), a = 5]
+Symbol Table: {a=0, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(b = 10 | (int c | (c = a*b | print: (c))))]
+Symbol Table: {a=5, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(b = 10 | (int c | (c = a*b | print: (c))))]
+Symbol Table: {a=5, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(b = 10 | (int c | (c = a*b | print: (c))))]
+Symbol Table: {a=5, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int c | (c = a*b | print: (c))), b = 10]
+Symbol Table: {a=5, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int c | (c = a*b | print: (c))), b = 10]
+Symbol Table: {a=5, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int c | (c = a*b | print: (c))), b = 10]
+Symbol Table: {a=5, b=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int c | (c = a*b | print: (c)))]
+Symbol Table: {a=5, b=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int c | (c = a*b | print: (c)))]
+Symbol Table: {a=5, b=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(int c | (c = a*b | print: (c)))]
+Symbol Table: {a=5, b=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(c = a*b | print: (c)), int c]
+Symbol Table: {a=5, b=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(c = a*b | print: (c)), int c]
+Symbol Table: {a=5, b=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(c = a*b | print: (c)), int c]
+Symbol Table: {a=5, b=10}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(c = a*b | print: (c))]
+Symbol Table: {a=5, b=10, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(c = a*b | print: (c))]
+Symbol Table: {a=5, b=10, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [(c = a*b | print: (c))]
+Symbol Table: {a=5, b=10, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [print: (c), c = a*b]
+Symbol Table: {a=5, b=10, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [print: (c), c = a*b]
+Symbol Table: {a=5, b=10, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [print: (c), c = a*b]
+Symbol Table: {a=5, b=10, c=0}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [print: (c)]
+Symbol Table: {a=5, b=10, c=50}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [print: (c)]
+Symbol Table: {a=5, b=10, c=50}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: [print: (c)]
+Symbol Table: {a=5, b=10, c=50}
+Heap: {}
+File Table: {}
+Output: []
+
+Program State ID: 2
+Execution Stack: []
+Symbol Table: {a=5, b=10, c=50}
+Heap: {}
+File Table: {}
+Output: [50]
+
+Program State ID: 2
+Execution Stack: []
+Symbol Table: {a=5, b=10, c=50}
+Heap: {}
+File Table: {}
+Output: [50]
+
